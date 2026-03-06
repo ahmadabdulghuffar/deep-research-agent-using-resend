@@ -1,7 +1,8 @@
 🔍 Deep Research AI Agent System
 An intelligent multi-agent research system that conducts parallel web searches, synthesizes information, and delivers comprehensive reports via email.
 
-Built by Ahmad Abdul Ghaffar | AI Agent Engineer | aibyahmad.com
+Built by Ahmad Abdul Ghaffar | AI Agent Engineer | ahmadabdulghuffar@gmail.com
+
 
 🎯 What This Does
 This AI system automates the research process by:
